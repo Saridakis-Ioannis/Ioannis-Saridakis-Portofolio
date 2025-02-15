@@ -1,7 +1,7 @@
 <h1>Ioannis-Saridakis-Portofolio</h1>
 
 <h2>Overview</h2>
-<p>Welcome to my portfolio repository! This repository showcases a series of advanced projects developed as part of my Master's degree in Computer Science. Each project demonstrates specialized knowledge and application of machine learning, data science, and neural network technologies. Below is an overview of each project, including brief descriptions and links to detailed READMEs for more information.</p>
+<p>Welcome to my portfolio repository! This repository showcases a series of advanced projects developed as part of my Master's degree in Data Science and Machine Learning. Each project demonstrates specialized knowledge and application of machine learning, data science, and neural network technologies. Below is an overview of each project, including brief descriptions and links to detailed READMEs for more information.</p>
 
 <h2>Repository Structure</h2>
 <ul>
